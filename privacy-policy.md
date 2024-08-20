@@ -1,4 +1,4 @@
-# The British School Colombo HRIS Attendance & Leave Management App
+# The British School Colombo HRIS Attendance & Leave Management App - privacy-policy
 
 ## Overview
 
@@ -12,6 +12,25 @@ The British School Colombo HRIS Attendance & Leave Management App is a mobile ap
 - **Improved Efficiency:** Eliminates paper-based tracking, saving time and resources.
 - **Increased Accuracy:** Minimizes manual data entry errors.
 - **Transparency:** Provides a clear view of leave balances and attendance history.
+
+## Location Permissions
+
+### Permissions Overview
+
+The app requests access to your device’s location to provide certain features and functionalities:
+
+- **Precise Location:** This permission allows the app to use GPS or network-based methods to determine your exact location.
+- **Approximate Location:** This permission provides a general location based on nearby cell towers or Wi-Fi networks.
+
+### Usage of Location Data
+
+- **Attendance Tracking:** We use your precise location to verify attendance at specific locations (e.g., school premises) to ensure accurate records.
+- **Leave Requests:** Approximate location may be used for location-based leave request validation if necessary.
+
+### Data Privacy
+
+- **No Data Sharing:** We do not share your location data with third parties. It is used solely within the app for the functionalities described.
+- **Data Security:** Location data is handled securely and only stored as required for the app's functionality.
 
 ## Benefits
 
